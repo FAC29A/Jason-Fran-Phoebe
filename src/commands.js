@@ -8,6 +8,7 @@ const commandsList = {
   help: help,
   log: logCommands,
   chat: chat,
+  // assistant: assist,
 };
 
 function replyToMessage(msg, answer) {
